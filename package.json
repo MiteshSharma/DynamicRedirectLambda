@@ -1,0 +1,16 @@
+{
+  "name": "joyride-redirect-lambda-demo",
+  "version": "1.0.0",
+  "description": "Joyride redirection based on user agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Joyride"
+  ],
+  "author": "msharma@kiwiup.com",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
